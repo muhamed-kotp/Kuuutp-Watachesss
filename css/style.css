@@ -1,3 +1,6 @@
+body{
+  overflow-x: hidden;
+}
 .nav-title {
   color: brown !important;
   font-family: "Great Vibes", cursive;
